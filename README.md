@@ -8,5 +8,3 @@
 - 👯 I’m looking to collaborate on audio applications utilizing web technologies!
 - 💬 Ask me about my projects!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/john-sebastian-mckelvey/)
-- ⚡ Fun fact: I have a background in music production and live performance!
-

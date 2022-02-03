@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning [digital signal processing](https://www.udemy.com/course/java-digital-signal-processing-dsp/), the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) and the [Web MIDI API](https://developer.mozilla.org/en-US/docs/Web/API/Web_MIDI_API)
 - 👯 I’m looking to collaborate on audio applications utilizing web technologies!
 - 💬 Ask me about my projects!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/john-sebastian-mckelvey/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/john-sebastian-mckelvey/) or by [email](sebastian.mckelvey@gmail.com)

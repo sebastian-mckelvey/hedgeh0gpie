@@ -5,6 +5,6 @@
 
 - 🔭 I recently graduated from Codeup's full stack web development program!
 - 🌱 I’m currently learning advanced CSS/Sass, React and Node.js!
-- 👯 I’m looking to collaborate on audio applications utilizing web technologies!
+- 👯 I’m looking to collaborate on audio applications and games utilizing web technologies!
 - 💬 Ask me about my [capstone project](https://run-cmc.net/)!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/john-sebastian-mckelvey/) or sebastian.mckelvey@gmail.com
